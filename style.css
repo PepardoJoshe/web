@@ -290,10 +290,18 @@ body {
   }
 }
 
-@media only screen and (max-width: 600px) {
-  /* Estilos para pantallas con un ancho máximo de 600px */
-  body {
-    font-size: 14px;
+/* Estilos específicos para dispositivos móviles */
+@media screen and (max-width: 600px) {
+  .envlope-wrapper {
+    margin: 50px;
+  }
+  #envelope {
+    width: 80%;
+    height: auto;
+  }
+  .reset {
+    text-align: center;
   }
 }
+
 
