@@ -61,7 +61,7 @@
   padding: 10px; /* Ajusta el margen interno según sea necesario */
   background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 25%, rgba(239, 215, 239, 0.7) 55%, #eed7ef 100%);
   font-family: 'Lobster', cursive; /* Cambiar el tipo de letra */
-  font-size: 14px; /* Ajusta el tamaño de la letra según sea necesario */
+  font-size: 12px; /* Ajusta el tamaño de la letra según sea necesario */
   text-align: center; /* Centrar el texto horizontalmente */
   line-height: 1.5; /* Ajusta el espaciado entre líneas según sea necesario */
 }
