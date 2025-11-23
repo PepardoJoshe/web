@@ -15,7 +15,7 @@ $(document).ready(function() {
     });
     btn_reset.click(function() {
         close();
-        mensaje.classList.remove("aparecer"); // Removemos la clase para la animación del mensaje
+        mensaje.classList.remove("aparecer"); // Removemos la clase para la animación del msg
     });
 
     function open() {
